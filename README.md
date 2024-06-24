@@ -31,8 +31,8 @@
 <h2>Instalación y Uso</h2>
 
 <h3>Clonar el Repositorio</h3>
-<pre><code>git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-cd nombre_del_repositorio
+<pre><code>git clone https://github.com/jeremontoya155/ControlBajas.git
+cd ControlBajas
 </code></pre>
 
 <h3>Instalar Dependencias</h3>
